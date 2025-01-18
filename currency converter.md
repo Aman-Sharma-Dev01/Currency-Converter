@@ -37,6 +37,7 @@ git clone https://github.com/yourusername/currency-converter.git
 ```
 currency-converter/
 ├── index.html
+├── curr.js
 ├── style.css
 └── script.js
 ```
